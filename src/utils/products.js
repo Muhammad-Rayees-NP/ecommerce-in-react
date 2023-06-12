@@ -42,28 +42,28 @@ export const SliderData = [
 
 export const serviceData = [
   {
-    icon: <ion-icon name="car"></ion-icon>,
-    title: "Free Shipping",
+    icon: "",
+    title: "Tropical suit",
     subtitle: "Lorem ipsum dolor sit amet.",
-    bg: "#fdefe6",
+    bg: "#f6f9fc",
   },
   {
-    icon: <ion-icon name="card"></ion-icon>,
-    title: "Safe Payment",
+    icon: "",
+    title: "Tropical suit",
     subtitle: "Lorem ipsum dolor sit amet.",
-    bg: "#ceebe9",
+    bg: "#f6f9fc",
   },
   {
-    icon: <ion-icon name="shield-half-outline"></ion-icon>,
-    title: "Secure Payment",
+    icon: "",
+    title: "Tropical suit",
     subtitle: "Lorem ipsum dolor sit amet.",
-    bg: "#e2f2b2",
+    bg: "#f6f9fc",
   },
   {
-    icon: <ion-icon name="headset"></ion-icon>,
-    title: " Back Guarantee",
+    icon: "",
+    title: " Tropical suit",
     subtitle: "Lorem ipsum dolor sit amet.",
-    bg: "#d6e5fb",
+    bg: "#f6f9fc",
   },
 ];
 
